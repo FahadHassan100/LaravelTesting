@@ -1,0 +1,17 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+
+//$primary-color:#ff0000;
+
+$primary-color:red;
+
+#mainSection{
+    background-color: $primary-color;
+}
